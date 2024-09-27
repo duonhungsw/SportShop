@@ -1,0 +1,17 @@
+<div class="flex flex-auto"> 
+    @if(product){
+        <mat-card  appearance="raised" routerLink="/shop/{{product.id}}" class="product-card"> 
+            <img class="h-40 object-cover w-full" src="assets{{product.pictureUrl}}" alt="{{product.name}}">
+            <mat-card-content class="mt-2">
+                <h2 class="text-sm font-semibold uppercase">{{product.name}}, {{product.id}}</h2>
+                <p class="font-light">{{product.price | currency}}</p>
+            </mat-card-content>
+            <mat-card-actions class="mt-auto" (click)="$event.stopPropagation()" >
+                <button mat-stroked-button class="w-full text-xs py-2"(click)="cartService.addToCart(product)">
+                    <mat-icon class="mr-1 ">add_shopping_cart</mat-icon>
+                    Add to Cart
+                </button>
+            </mat-card-actions>
+        </mat-card>
+    }
+</div>

@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fsoft Dotnet\\ProductApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C259B576-F804-4F2B-AD0F-F82F5ACD168C}|DataAccess\\DataAccess.csproj|d:\\fsoft dotnet\\productapp\\dataaccess\\services\\responsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C259B576-F804-4F2B-AD0F-F82F5ACD168C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\services\\responsecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C259B576-F804-4F2B-AD0F-F82F5ACD168C}|DataAccess\\DataAccess.csproj|d:\\fsoft dotnet\\productapp\\dataaccess\\data\\seeddata\\delivery.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C259B576-F804-4F2B-AD0F-F82F5ACD168C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\seeddata\\delivery.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C259B576-F804-4F2B-AD0F-F82F5ACD168C}|DataAccess\\DataAccess.csproj|d:\\fsoft dotnet\\productapp\\dataaccess\\specifications\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C259B576-F804-4F2B-AD0F-F82F5ACD168C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\specifications\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C259B576-F804-4F2B-AD0F-F82F5ACD168C}|DataAccess\\DataAccess.csproj|d:\\fsoft dotnet\\productapp\\dataaccess\\specifications\\productspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C259B576-F804-4F2B-AD0F-F82F5ACD168C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\specifications\\productspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C259B576-F804-4F2B-AD0F-F82F5ACD168C}|DataAccess\\DataAccess.csproj|d:\\fsoft dotnet\\productapp\\dataaccess\\repositories\\hrepositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C259B576-F804-4F2B-AD0F-F82F5ACD168C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\hrepositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F04C14-1B2B-4FC5-B039-C8287988728D}|ProductApp\\ProductApp.csproj|d:\\fsoft dotnet\\productapp\\productapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F04C14-1B2B-4FC5-B039-C8287988728D}|ProductApp\\ProductApp.csproj|solutionrelative:productapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResponseCacheService.cs",
+              "DocumentMoniker": "D:\\Fsoft Dotnet\\ProductApp\\DataAccess\\Services\\ResponseCacheService.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Services\\ResponseCacheService.cs",
+              "ToolTip": "D:\\Fsoft Dotnet\\ProductApp\\DataAccess\\Services\\ResponseCacheService.cs",
+              "RelativeToolTip": "DataAccess\\Services\\ResponseCacheService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T01:40:14.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "delivery.json",
+              "DocumentMoniker": "D:\\Fsoft Dotnet\\ProductApp\\DataAccess\\Data\\SeedData\\delivery.json",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\SeedData\\delivery.json",
+              "ToolTip": "D:\\Fsoft Dotnet\\ProductApp\\DataAccess\\Data\\SeedData\\delivery.json",
+              "RelativeToolTip": "DataAccess\\Data\\SeedData\\delivery.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T10:01:27.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Fsoft Dotnet\\ProductApp\\DataAccess\\Repositories\\HRepositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\HRepositories\\GenericRepository.cs",
+              "ToolTip": "D:\\Fsoft Dotnet\\ProductApp\\DataAccess\\Repositories\\HRepositories\\GenericRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\HRepositories\\GenericRepository.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:59:31.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductSpecParams.cs",
+              "DocumentMoniker": "D:\\Fsoft Dotnet\\ProductApp\\DataAccess\\Specifications\\ProductSpecParams.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Specifications\\ProductSpecParams.cs",
+              "ToolTip": "D:\\Fsoft Dotnet\\ProductApp\\DataAccess\\Specifications\\ProductSpecParams.cs",
+              "RelativeToolTip": "DataAccess\\Specifications\\ProductSpecParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:57:04.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Fsoft Dotnet\\ProductApp\\ProductApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductApp\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Fsoft Dotnet\\ProductApp\\ProductApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:56:55.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductSpecification.cs",
+              "DocumentMoniker": "D:\\Fsoft Dotnet\\ProductApp\\DataAccess\\Specifications\\ProductSpecification.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Specifications\\ProductSpecification.cs",
+              "ToolTip": "D:\\Fsoft Dotnet\\ProductApp\\DataAccess\\Specifications\\ProductSpecification.cs",
+              "RelativeToolTip": "DataAccess\\Specifications\\ProductSpecification.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:55:42.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
